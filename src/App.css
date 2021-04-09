@@ -40,3 +40,10 @@
 h2 {
   margin-top: 0px;
 }
+.task-container {
+  border: 1px solid;
+  padding: 40px;
+  margin-left: 40px;
+
+
+}
